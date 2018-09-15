@@ -1,0 +1,28 @@
+"Herança" de características do XP - Xtreme Programming
+- pair programming
+- TDD - Test Driven Development
+- babysteps
+  - No vermelho (testes não estão passando),
+    fazer passar nos testes (da maneira mais simples possível)
+  - No verde (testes estão passando),
+    ou coloca um novo teste (mínimo),
+    ou refatora/ajusta/melhora o que existe
+
+Coding Dojos
+- Tipos
+  - Randori Kata (o que faremos hoje)
+  - Kata preparado ("palestra" com TDD)
+  - Kake (múltiplos kata realizados em simultâneo)
+- Não existe a intenção de resolver o problema
+- Não continua o que foi iniciado em dojos anteriores
+
+Comportamento em caso de dúvidas:
+- Vermelho: SEMPRE PERGUNTAR! Só não pode dar palpite.
+- Verde: Sempre pode dar pitaco/palpite
+NUNCA deixe sua dúvida para ser resolvida depois.
+
+Ao final do Dojo, recapitulação:
+- Post-its com "pontos positivos" e "pontos negativos"
+- 1 "ponto" por post-it
+- Não deve existir a restrição de "coisas a serem melhoradas",
+  os dojos são "fechados", não há continuação
